@@ -4,13 +4,15 @@
 
 Zarp is an open-source application for Windows, macOS and Android. It automatically discovers working DPI bypass strategies using zapret2 to help connect through networks that block Cloudflare WARP.
 
+🌐 **Official Website: [zarp.dev](https://zarp.dev/)**
+
 ## 📦 Downloads
 
 | Platform | Download |
 |---|---|
-|  Windows | [Latest release](https://github.com/ZarpVPN/Zarp/releases/latest) |
-|  macOS | [Latest release](https://github.com/ZarpVPN/Zarp-MacOS/releases/latest) |
-|  Android | [Latest APK](https://github.com/ZarpVPN/Zarp-Android/releases/latest) |
+| Windows | [Latest release](https://github.com/ZarpVPN/Zarp/releases/latest) |
+| macOS | [Latest release](https://github.com/ZarpVPN/Zarp-MacOS/releases/latest) |
+| Android | [Latest APK](https://github.com/ZarpVPN/Zarp-Android/releases/latest) |
 
 ## ✨ Features
 
@@ -39,3 +41,5 @@ Zarp is an open-source application for Windows, macOS and Android. It automatica
 Found a bug or have a feature request? Open an issue in the corresponding repository.
 
 Contributions and feedback are welcome.
+
+🌐 [Official Website](https://zarp.dev/)
